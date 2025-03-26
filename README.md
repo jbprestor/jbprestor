@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jrestor
+- 👋 Hi, I’m Yudz
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning React, Version Control, Javascript, CSS, HTML5, Python, MySQL and more... coz everyday is learning day.
+- << Currently, working a Bureau of Local Government Finance.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jamesbryanprestor@gmail.com
 
